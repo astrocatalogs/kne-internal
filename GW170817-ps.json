@@ -5,6 +5,10 @@
 			{
 				"bibcode":"2017arXiv171005841S",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2017arXiv171011576V",
+				"alias":"2"
 			}
 		],
 		"alias":[
@@ -798,7 +802,7 @@
 				"e_magnitude":"0.20",
 				"instrument":"GROND",
 				"telescope":"LaSilla",
-				"magnitude":"19.03",
+				"magnitude":"18.46",
 				"system":"AB",
 				"u_time":"MJD",
 				"source":"1"
